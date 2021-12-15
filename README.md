@@ -13,8 +13,7 @@
 - 🤔 I’m looking for help with React.
 - 💬 Ask from me anything you want, If I am alive I will answer within seconds 😉. 
 - ✔ Fun fact : *I Always try to learn something new and then sleep till it store in the brain* 😎<br>
-<summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center"
-                width="28" /> To connect with me</h2></summary>
+<summary><h2> To connect with me</h2></summary>
 
 <p align = "center">
  
