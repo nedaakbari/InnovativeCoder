@@ -27,15 +27,6 @@
 
 </p>
 
-<summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1471045852/841/hero.gif?1471045852" align="center"
-                width="28" /> My Github Stats</h2> </summary>
-
-<br>
-
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=RahulMahesh62&show_icons=true&count_private=true&theme=vue&hide=issues&line_height=32">
-  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=rahulmahesh62&">
-</p>
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
 <p align="left">
@@ -53,6 +44,3 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="25" />  
 </div>  
 -----
-Credits: [RahulMahesh62](https://github.com/RahulMahesh62)
-
-Last Edited on: 15/01/2021
